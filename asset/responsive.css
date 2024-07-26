@@ -485,7 +485,10 @@ main { margin-bottom: 60px; }
 
 }
 
-
+.blog-posts-list{
+  display: grid;
+  grid-template-columns: 1fr;
+}
 
 
 
